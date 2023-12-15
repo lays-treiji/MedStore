@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+}
+
+ul li img {
+  border: 1px solid rgb(5, 5, 5);
+  border-radius: 10px;
+  z-index: 1;
+  margin: 10px;
+}
+ul li img:hover {
+  transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
+}

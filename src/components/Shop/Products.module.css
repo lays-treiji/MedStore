@@ -1,0 +1,67 @@
+.products h2 {
+  color: white;
+  margin: 2rem auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.products ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.Button button {
+  justify-content: center;
+  padding: 0.7rem 2rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  color: rgb(7, 6, 6);
+  border: 0.3rem solid transparent;
+  border-radius: 3rem;
+  margin: 10px auto auto auto;
+  width: 20%;
+  display: flex;
+  cursor: pointer;
+}
+
+.Button a {
+  text-decoration: none;
+}
+
+/* .search {
+  margin: auto;
+  width: 25%;
+  padding: 20px;
+  margin: 10px;
+} */
+.search input {
+  justify-content: center;
+  padding: 0.7rem 2rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  color: rgb(7, 6, 6);
+  border: 0.3rem solid transparent;
+  border-radius: 3rem;
+  margin: 10px auto auto auto;
+  width: 20%;
+  display: flex;
+}
+.search button {
+  justify-content: center;
+  padding: 0.7rem 2rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  color: rgb(7, 6, 6);
+  border: 0.3rem solid transparent;
+  border-radius: 3rem;
+  margin: 10px auto auto auto;
+  width: 20%;
+  display: flex;
+  cursor: pointer;
+}
